@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Aditi Devgan](https://github.com/AditiDevgan3/AditiDevgan3/blob/main/carbon%20(1).png?raw=True)
 <!--
 **AditiDevgan3/AditiDevgan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
