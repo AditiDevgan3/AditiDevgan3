@@ -20,6 +20,7 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23EE4C2C.svg?&style=for-the-badge&logo=Flask&logoColor=white&color=rgb(10,10,10)" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <!--
