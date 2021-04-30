@@ -22,6 +22,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="Azure" src="https://img.shields.io/badge/azure%20cloud-%2300f.svg?&style=for-the-badge&logo=azure-cloud&logoColor=white&color=rgb(54,132,255)"/>
+    <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <!--
