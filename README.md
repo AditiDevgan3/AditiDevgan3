@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
 
-> AI enthusiast, logical thinker and believes in teamwork, I am an IT student passionate about learning new technologies and constantly improving my skillset.
+> AI enthusiast, logical thinker and believes in teamwork, I am an IT student passionate about learning new technologies and constantly improving my skillset:)
 
 <h2 align="center">⚡Tech Stack</h2>
 <p align="center">
