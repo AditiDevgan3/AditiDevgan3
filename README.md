@@ -11,7 +11,7 @@
 <h2 align="center">⚡Tech Stack</h2>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="GCP" src="https://img.shields.io/badge/google cloud-%2300f.svg?&style=for-the-badge&logo=google-cloud&logoColor=white&color=rgb(54,132,255)"/>
+    <img alt="Azure" src="https://img.shields.io/badge/azure cloud-%2300f.svg?&style=for-the-badge&logo=azure-cloud&logoColor=white&color=rgb(54,132,255)"/>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
