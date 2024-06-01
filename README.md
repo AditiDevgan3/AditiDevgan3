@@ -6,7 +6,8 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
 
-> AI enthusiast, logical thinker and believes in teamwork, I am an IT student passionate about learning new technologies and constantly improving my skillset:)
+> With 2+ years of experience in result-oriented Cloud-DevOps engineering, I excel in managing cloud-based technology and efficiently handling configuration and deployment processes. I have successfully implemented CI/CD, containerization, Kubernetes, Terraform, multicloud orchestration tools, and monitoring strategies in both production and development environments, adapting to new business requirements seamlessly. As a results-driven professional, I am dedicated to meeting the needs of customers, businesses, and evolving market demands.
+Now, I am actively seeking for a great opportunity in a dynamic environment where I can apply my expertise and knowledge to foster innovation and attain exceptional results.
 
 <h2 align="center">⚡Tech Stack</h2>
 <p align="center">
@@ -20,9 +21,9 @@
     <img alt="Helm" src="https://img.shields.io/badge/helm%20-%23EE4C2C.svg?&style=for-the-badge&logo=helm&logoColor=white&color=rgb(10,10,10)" />
     <img alt="CI/CD" src="https://img.shields.io/badge/ci/cd%20-%23F37626.svg?&style=for-the-badge&logo=ci/cd&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="ARM Template" src="https://img.shields.io/badge/armtemplates%20-%2314354C.svg?&style=for-the-badge&logo=armtemplates&logoColor=white"/>
+    <img alt="GitLab" src="https://img.shields.io/badge/armtemplates%20-%2314354C.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Tableau" src="https://img.shields.io/badge/tableau%20-%2314354C.svg?&style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/tableau%20-%2314354C.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 </p>
 
 <!--
