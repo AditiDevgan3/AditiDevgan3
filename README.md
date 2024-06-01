@@ -21,9 +21,9 @@ Now, I am actively seeking for a great opportunity in a dynamic environment wher
     <img alt="Helm" src="https://img.shields.io/badge/helm%20-%23EE4C2C.svg?&style=for-the-badge&logo=helm&logoColor=white&color=rgb(10,10,10)" />
     <img alt="CI/CD" src="https://img.shields.io/badge/ci/cd%20-%23F37626.svg?&style=for-the-badge&logo=ci/cd&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitLab" src="https://img.shields.io/badge/armtemplates%20-%2314354C.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="AWS" src="https://img.shields.io/badge/tableau%20-%2314354C.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/aws%20-%2314354C.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 </p>
 
 <!--
