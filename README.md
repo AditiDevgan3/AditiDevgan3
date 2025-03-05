@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
 
-> With 2+ years of experience in result-oriented Cloud-DevOps engineering, I excel in managing cloud-based technology and efficiently handling configuration and deployment processes. I have successfully implemented CI/CD, containerization, Kubernetes, Terraform, multicloud orchestration tools, and monitoring strategies in both production and development environments, adapting to new business requirements seamlessly. As a results-driven professional, I am dedicated to meeting the needs of customers, businesses, and evolving market demands.
+> With 3+ years of experience in result-oriented Cloud-DevOps engineering, I excel in managing cloud-based technology and efficiently handling configuration and deployment processes. I have successfully implemented CI/CD, containerization, Kubernetes, Terraform, multicloud orchestration tools, and monitoring strategies in both production and development environments, adapting to new business requirements seamlessly. As a results-driven professional, I am dedicated to meeting the needs of customers, businesses, and evolving market demands.
 Now, I am actively seeking for a great opportunity in a dynamic environment where I can apply my expertise and knowledge to foster innovation and attain exceptional results.
 
 <h2 align="center">⚡Tech Stack</h2>
